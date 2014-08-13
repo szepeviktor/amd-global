@@ -31,4 +31,9 @@ You can read about it in this [SO question](http://stackoverflow.com/questions/8
 [amd-window](https://github.com/szepeviktor/amd-window)
 
 Idea of [unscriptable](https://github.com/unscriptable) and [briancavalier](https://github.com/briancavalier).
+
 Available in the [Bower Registry](http://bower.io/search/)
+
+```
+bower install amd-global
+```
