@@ -1,8 +1,8 @@
 /** @license The MIT License (MIT) Copyright (c) 2014 Viktor Szépe */
 
 /**
- * AMD window
- * Helps depending on the window object
+ * AMD global
+ * A module that grabs the current global for multiple environments
  *
  * Licensed under the MIT License at:
  * http://www.opensource.org/licenses/mit-license.php
