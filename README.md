@@ -1,7 +1,7 @@
 amd-global
 ==========
 
-Helps grabbing the global object
+Helps grabbing the global object. Works in a browser `window`, in node.js `global`, in Web Workers `self`.
 
 ### Usage with [curl.js](https://github.com/cujojs/curl)
 
