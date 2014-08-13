@@ -1,12 +1,12 @@
 {
-	'name': 'amd-global',
-	'main': 'amd-global.js',
-	'version': '0.1.0',
-	'homepage': 'https://github.com/szepeviktor/amd-global',
-	'authors': [ 'Viktor Szépe <viktor@szepe.net>' ],
-	'description': 'A module that grabs the current global for multiple environments',
-	'moduleType': [ 'amd', 'es6', 'globals', 'node', 'yui' ],
-	'keywords': [ 'global' ],
-	'license': 'MIT',
-	'ignore': [ '**/.*', 'amd-global-concatenate.js' ]
+	"name": "amd-global",
+	"main": "amd-global.js",
+	"version": "0.1.0",
+	"homepage": "https://github.com/szepeviktor/amd-global",
+	"authors": [ "Viktor Szépe <viktor@szepe.net>" ],
+	"description": "A module that grabs the current global for multiple environments",
+	"moduleType": [ "amd", "es6", "globals", "node", "yui" ],
+	"keywords": [ "global" ],
+	"license": "MIT",
+	"ignore": [ "**/.*", "amd-global-concatenate.js" ]
 }
