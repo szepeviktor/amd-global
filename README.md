@@ -26,3 +26,6 @@ Your AMD module should depend on AMD global:
 
 You can read about it in this [SO question](http://stackoverflow.com/questions/8275658/passing-window-and-undefined-to-an-immediately-invoked-anonymous-function-why)
 
+### Are you looking for browser-only version?
+
+[amd-window](https://github.com/szepeviktor/amd-window)
