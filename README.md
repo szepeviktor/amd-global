@@ -29,3 +29,5 @@ You can read about it in this [SO question](http://stackoverflow.com/questions/8
 ### Are you looking for browser-only version?
 
 [amd-window](https://github.com/szepeviktor/amd-window)
+
+Idea of [unscriptable](https://github.com/unscriptable) and [briancavalier](https://github.com/briancavalier).
