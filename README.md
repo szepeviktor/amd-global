@@ -1,7 +1,7 @@
 amd-global
 ==========
 
-Helps grabbing on the global object
+Helps grabbing the global object
 
 ### Usage with [curl.js](https://github.com/cujojs/curl)
 
