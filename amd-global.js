@@ -9,4 +9,5 @@
  *
  */
 
-define(window);
+/** @modue: amd-global */
+define(typeof global !== 'undefined' ? global : self);
