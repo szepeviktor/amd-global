@@ -9,5 +9,6 @@
  *
  */
 
+/** @modue: amd-global */
 // when concatenating the modules should be named
-define('amd-window', window);
+define('amd-global', typeof global !== 'undefined' ? global : self);
